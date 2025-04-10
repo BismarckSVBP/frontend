@@ -517,7 +517,7 @@ const AdminPanel = () => {
                       fontSize: "1.2rem",
                     }}
                   >
-                    2023
+                    
                   </div>
                 </div>
 
